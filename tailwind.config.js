@@ -8,6 +8,7 @@ export default {
     extend: {
       colors:{
         'bidhan':'#93c23a',
+        'testimonial':'#DFF1F9'
       },
       fontFamily:{
         'poppins':"Poppins"

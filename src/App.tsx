@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Nav from './components/Nav'
 import Services from './components/Services'
 import Stats from './components/Stats'
+import Testimonials from './components/Testimonials'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
           <Hero/>
           <Stats/>
           <Services/>
+          <Testimonials/>
     <Nav/>
 
   
